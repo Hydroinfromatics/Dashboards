@@ -3,7 +3,7 @@ from dateutil import parser
 from get_data import fetch_data_from_api
 
 # Fetch data from API
-API_URL = "https://mongodbapi-bw4d.onrender.com"
+API_URL = "https://mongodb-api-hmeu.onrender.com"
 
 
 def preprocess_data(date_format="%d-%b-%Y %H:%M:%S"):
